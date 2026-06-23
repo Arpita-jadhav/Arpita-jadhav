@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Arpita Jadhav</h1>
+<h3 align="center">A Passionate Full Stack Java Developer</h3>
 
-<!--
-**Arpita-jadhav/Arpita-jadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- 🔭 I’m currently working on **Full Stack Java Projects**
+- 🌱 I’m learning **Spring Boot, React, and Microservices**
+- 💬 Ask me about **Java, OOPs, JDBC, React**
+- 📫 How to reach me: **your-email@example.com**
+- ⚡ Fun fact: I love solving coding problems and building real-world applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+### 💻 Languages
+- Java
+- JavaScript
+- SQL
+
+### 🌐 Frontend
+- HTML
+- CSS
+- React
+
+### ⚙️ Backend
+- Java
+- Spring Boot
+- JDBC
+
+### 🛠️ Tools
+- Git & GitHub
+- VS Code
+- Eclipse
+
+## 💡 Quote
+> "Consistency is more important than perfection."
+
+
