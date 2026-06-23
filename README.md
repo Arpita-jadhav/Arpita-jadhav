@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Full Stack Java Projects**
 - 🌱 I’m learning **Spring Boot, React, and Microservices**
 - 💬 Ask me about **Java, OOPs, JDBC, React**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **arpitajadhav526@gmail.com**
 - ⚡ Fun fact: I love solving coding problems and building real-world applications
 
 ---
